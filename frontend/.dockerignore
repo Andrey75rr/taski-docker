@@ -1,0 +1,8 @@
+# frontend/.dockerignore
+node_modules
+build 
+.env
+.env.local
+.env.development
+.env.production
+.env.test
